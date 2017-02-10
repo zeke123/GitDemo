@@ -5,4 +5,5 @@ package com.zhoujian.git;
  */
 
 public class SecondActivity {
+
 }
