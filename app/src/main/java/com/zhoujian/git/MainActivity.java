@@ -11,16 +11,11 @@ public class MainActivity extends Activity
     {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
-
         showMethod();
     }
-
     private void showMethod()
     {
-
         Toast.makeText(this, "测试一", Toast.LENGTH_SHORT).show();
         Toast.makeText(this, "测试二", Toast.LENGTH_SHORT).show();
     }
-
-
 }
