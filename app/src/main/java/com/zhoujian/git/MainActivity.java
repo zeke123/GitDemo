@@ -17,6 +17,10 @@ public class MainActivity extends Activity
     {
 
         Toast.makeText(this, "测试一", Toast.LENGTH_SHORT).show();
+        Toast.makeText(this, "测试二", Toast.LENGTH_SHORT).show();
+        Toast.makeText(this, "测试三", Toast.LENGTH_SHORT).show();
+
+
 
     }
 }
